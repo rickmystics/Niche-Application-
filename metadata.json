@@ -1,0 +1,6 @@
+{
+  "name": "NICHE",
+  "description": "Learn Smarter, Teach Better - Adaptive, feature-rich EdTech platform connecting students and teachers across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
